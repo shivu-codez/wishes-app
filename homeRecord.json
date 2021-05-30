@@ -5,55 +5,56 @@
         "color1":"00c6ff",
         "color2":"0072ff",
         "icon":"wb_sunny",
-        "count":"1K+",
-      ,
+        "count":"1K+"
+      },
       {
         "title":"All the best Wishes",
         "color1":"9d50bb",
         "color2":"6e48aa",
         "icon":"thumb_up",
-        "count":"2K+",
-      ,
+        "count":"2K+"
+      },
       {
         "title":"Happy Birthday Wishes",
         "color1":"ff9472",
         "color2":"f2709c",
         "icon":"cake",
-        "count":"2K+",
-      ,
+        "count":"2K+"
+      },
       {
         "title":"Valentine Wishes",
         "color1":"ed213a",
         "color2":"93291e",
         "icon":"favorite_sharp",
-        "count":"2K+",
-      ,
+        "count":"2K+"
+      },
       {
         "title":"Good Night Wishes",
         "color1":"4389a2",
         "color2":"5c258d",
         "icon":"nightlight_round",
-        "count":"1.5K+",
-      ,
+        "count":"1.5K+"
+      },
       {
         "title":"Festival Wishes",
         "color1":"ffc837",
         "color2":"ff8008",
         "icon":"ac_unit",
-        "count":"4.5K+",
-      ,
+        "count":"4.5K+"
+      },
       {
         "title":"Anniversary Wishes",
         "color1":"ff512f",
         "color2":"dd2476",
         "icon":"favorite",
-        "count":"4.5K+",
-      ,
+        "count":"4.5K+"
+      },
       {
         "title":"Marriage Wishes",
         "color1":"5fc3e4",
         "color2":"e55d87",
         "icon":"wc",
-        "count":"4K+",
-      
+        "count":"4K+"
+      }
     ]
+}
