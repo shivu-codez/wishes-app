@@ -1,0 +1,60 @@
+{
+    "record":[
+        {
+        "title":"Good Morning Wishes",
+        "color1":Color(0xFF00c6ff),
+        "color2":Color(0xFF0072ff),
+        "icon":Icons.wb_sunny,
+        "count":"1K+",
+      },
+      {
+        "title":"All the best Wishes",
+        "color1":Color(0xFF9d50bb),
+        "color2":Color(0xFF6e48aa),
+        "icon":Icons.thumb_up,
+        "count":"2K+",
+      },
+      {
+        "title":"Happy Birthday Wishes",
+        "color1":Color(0xFFff9472),
+        "color2":Color(0xFFf2709c),
+        "icon":Icons.cake,
+        "count":"2K+",
+      },
+      {
+        "title":"Valentine Wishes",
+        "color1":Color(0xFFed213a),
+        "color2":Color(0xFF93291e),
+        "icon":Icons.favorite_sharp,
+        "count":"2K+",
+      },
+      {
+        "title":"Good Night Wishes",
+        "color1":Color(0xFF4389a2),
+        "color2":Color(0xFF5c258d),
+        "icon":Icons.nightlight_round,
+        "count":"1.5K+",
+      },
+      {
+        "title":"Festival Wishes",
+        "color1":Color(0xFFffc837),
+        "color2":Color(0xFFff8008),
+        "icon":Icons.ac_unit,
+        "count":"4.5K+",
+      },
+      {
+        "title":"Anniversary Wishes",
+        "color1":Color(0xFFff512f),
+        "color2":Color(0xFFdd2476),
+        "icon":Icons.favorite,
+        "count":"4.5K+",
+      },
+      {
+        "title":"Marriage Wishes",
+        "color1":Color(0xFF5fc3e4),
+        "color2":Color(0xFFe55d87),
+        "icon":Icons.wc,
+        "count":"4K+",
+      }
+    ]
+}
