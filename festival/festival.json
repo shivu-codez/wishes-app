@@ -1,21 +1,84 @@
 {
     "record":[
-	   "New Year",
-	  "Christmas",
-      "Diwali",
-	  "Halloween",
-	  "Holi",
-	  "Ugadi",
-	  "Thanksgiving",
-	  "Navratri",
-	  "Dussehra",
-	  "Janmashtami",
-	  "Ganesh Chaturthi",
-	  "Eid-ul-Fitr",
-	  "Maha Shivratri",
-	  "Rakshabandhan",
-	  "Onam",
-	  "Makar Sankranti",
-	  "Easter",
+	{
+		"title":"New Year",
+		"img":"",
+		"keywords":["newyear","new year","Jan","january","2022","2021"]
+	},
+	{
+		"title":"Christmas",
+		"img":"",
+		"keywords":["Christmas","santa","santa claus","claus","Decemeber","Dec","gift","gifts"]
+	},
+	{
+		"title":"Diwali",
+		"img":"",
+		"keywords":["Diwali","November","Nov","South","India","Indian","deepavali"]
+	}, 
+	{
+		"title":"Halloween",
+		"img":"",
+		"keywords":["Halloween","October","Oct","Hallows","Allhalloween","costumes","dangerous","Scary"]
+	},
+	{
+		"title":"Holi",
+		"img":"",
+		"keywords":["Holi","March","Mar","South","India","Indian","north","Colours","color","Krishna","Radha"]
+	},
+	{
+		"title":"Ugadi",
+		"img":"",
+		"keywords":["April","Gudi","Padwa","Apr","Yugadi","south","Indian","Samvatsaradi","New Year","Karnataka","Andhra Pradesh","Telangana"]
+	},
+	{
+		"title":"Thanksgiving",
+		"img":"",
+		"keywords":["Thanksgiving","November","Nov","sacrifice","national holiday"]
+	},
+	{
+		"title":"Dussehra",
+		"img":"",
+		"keywords":["Dussehra","October","Oct","South","India","Indian","north","Vijayadashami","Navaratri","Ravana","Ram","Durga Puja","Dashahra","Dasara","Dashain"]
+	},
+	{
+		"title":"Janmashtami",
+		"img":"",
+		"keywords":["Janmashtami","August","Aug","South","India","Indian","north","Krishna","Dussehra","Gokulashtami","SaatamAatham","Yadukulashtami","Srikrishna Jayanti"]
+	},
+	{
+		"title":"Ganesh Chaturthi",
+		"img":"",
+		"keywords":["Ganesh Chaturthi","Vinayaka","September","Sep","South","India","Indian","north","Kailash Parvat","Chavathi","Chouthi","Ganeshotsav","Chaturthi"]
+	},
+	{
+		"title":"Eid-ul-Fitr",
+		"img":"",
+		"keywords":["Eid-ul-Fitr","May","Fast","Lesser Eid","Eid","Ramadan","north","India","Indian","South"]
+	},
+	{
+		"title":"Maha Shivratri",
+		"img":"",
+		"keywords":["Maha Shivratri","Shiva","March","Mar","India","Indian","north","Night","South","Mahashivratri","shiv"]
+	},
+	{
+		"title":"Rakshabandhan",
+		"img":"",
+		"keywords":["Rakshabandhan","August","Aug","Rakhi","India","Indian","north","Night","South","Brother","Sister","Bro","sis"]
+	},
+	{
+		"title":"Onam",
+		"img":"",
+		"keywords":["Onam","August","Aug","South","India","Indian","Kerala","Harvest","Malayali"]
+	},
+	{
+		"title":"Makar Sankranti",
+		"img":"",
+		"keywords":["Makar Sankranti","January","Jan","South","India","Indian","Uttarayan","Maghi","Poush","Kite","surya puja","cow","puja",Harvest"]
+	},
+	{
+		"title":"Easter",
+		"img":"",
+		"keywords":["Easter","April","Apr","South","India","Indian","North","Pascha","Resurrection Sunday"]
+	}
     ]
 }
